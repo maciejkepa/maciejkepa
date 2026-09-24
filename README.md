@@ -77,6 +77,9 @@ I care about systems that are scalable, observable, maintainable, and ready for 
   <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/">
     <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="100" alt="DP-100 Microsoft Certified Associate badge" />
   </a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/implementing-data-engineering-solutions-using-azure-databricks">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="100" alt="DP-750 Microsoft Certified Associate badge" />
+  </a>
   <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/">
     <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100" alt="AI-900 Microsoft Certified Fundamentals badge" />
   </a>
@@ -94,6 +97,10 @@ I care about systems that are scalable, observable, maintainable, and ready for 
   <tr>
     <td><code>AZ-305</code></td>
     <td>Azure Solutions Architect Expert</td>
+  </tr>
+  <tr>
+    <td><code>DP-750</code></td>
+    <td>Azure Databricks Data Engineer Associate</td>
   </tr>
   <tr>
     <td><code>DP-100</code></td>
