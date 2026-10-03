@@ -20,7 +20,7 @@
 
 ## About me
 
-Senior Data Engineer and Data Architect at **Datumo**, focused on building production-grade **Data & AI** solutions on **Microsoft Azure**.
+Data & AI Architect at **Datumo**, focused on building production-grade **Data & AI** solutions on **Microsoft Azure**.
 
 My work is centered on making AI useful in real environments:
 - designing data platforms based mainly on Azure and Databricks
