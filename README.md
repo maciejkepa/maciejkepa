@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello! I'm Maciej Kępa 👋</h1>
-  <p><strong>Data Architect</strong></p>
+  <p><strong>Data & AI Architect</strong></p>
   <p>
     <img src="https://img.shields.io/badge/Azure-0F4C81?style=for-the-badge" alt="Azure" />
     <img src="https://img.shields.io/badge/MLOps-1565C0?style=for-the-badge" alt="MLOps" />
